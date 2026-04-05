@@ -38,11 +38,11 @@ The project uses the following Python libraries:
 Install dependencies using:
 
 ```python
-pip install geoip2 networkx matplotlib pandas numpy scikit-learn python-louvain tabulate neo4j
+  pip install geoip2 networkx matplotlib pandas numpy scikit-learn python-louvain tabulate neo4j
 
 
 
-## MaxMind GeoIP Data Usage
+MaxMind GeoIP Data Usage
 
 The project uses the GeoLite2 City database from MaxMind to extract geographic coordinates from IP addresses.
 
